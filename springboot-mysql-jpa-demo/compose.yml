@@ -1,4 +1,4 @@
-serivces:
+services:
   my-server:
     build: .
     ports:
